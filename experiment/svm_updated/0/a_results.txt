@@ -1,0 +1,47 @@
+Dirt: dirt-3,dirt-1
+Road: e-track-5,forza
+
+
+Test on race: dirt-2
+Correct Pred: 4947	|	Wrong Pred: 1
+Precision: 0.9997978981406629
+
+Test on race: dirt-3
+Correct Pred: 4948	|	Wrong Pred: 0
+Precision: 1.0
+
+Test on race: brondehach
+Correct Pred: 7	|	Wrong Pred: 4941
+Precision: 0.0014147130153597412
+
+Test on race: dirt-4
+Correct Pred: 4948	|	Wrong Pred: 0
+Precision: 1.0
+
+Test on race: e-track-5
+Correct Pred: 4948	|	Wrong Pred: 0
+Precision: 1.0
+
+Test on race: forza
+Correct Pred: 4948	|	Wrong Pred: 0
+Precision: 1.0
+
+Test on race: dirt-1
+Correct Pred: 4948	|	Wrong Pred: 0
+Precision: 1.0
+
+Test on race: dirt-6
+Correct Pred: 4948	|	Wrong Pred: 0
+Precision: 1.0
+
+Test on race: wheel-2
+Correct Pred: 6	|	Wrong Pred: 4942
+Precision: 0.0012126111560226355
+
+Test on race: g-speedway
+Correct Pred: 1	|	Wrong Pred: 4947
+Precision: 0.0002021018593371059
+FINAL SCORE!
+Correct Pred: 34649	|	Wrong Pred: 14831
+Total Precision: 0.7002627324171382
+The number of correctly predicted circuits is: 7/10

@@ -1,0 +1,46 @@
+
+
+Model number 0
+Correct Pred: 34649	|	Wrong Pred: 14831
+Total Precision: 0.7002627324171382
+The number of correctly predicted circuits is: 7/10
+
+Model number 1
+Correct Pred: 34636	|	Wrong Pred: 14844
+Total Precision: 0.7
+The number of correctly predicted circuits is: 7/10
+
+Model number 2
+Correct Pred: 34644	|	Wrong Pred: 14836
+Total Precision: 0.7001616814874697
+The number of correctly predicted circuits is: 7/10
+
+Model number 3
+Correct Pred: 34634	|	Wrong Pred: 14846
+Total Precision: 0.6999595796281326
+The number of correctly predicted circuits is: 7/10
+
+Model number 4
+Correct Pred: 34655	|	Wrong Pred: 14825
+Total Precision: 0.7003839935327405
+The number of correctly predicted circuits is: 7/10
+
+Model number 5
+Correct Pred: 34636	|	Wrong Pred: 14844
+Total Precision: 0.7
+The number of correctly predicted circuits is: 7/10
+
+Model number 6
+Correct Pred: 34639	|	Wrong Pred: 14841
+Total Precision: 0.7000606305578011
+The number of correctly predicted circuits is: 7/10
+
+Model number 7
+Correct Pred: 34644	|	Wrong Pred: 14836
+Total Precision: 0.7001616814874697
+The number of correctly predicted circuits is: 7/10
+
+Model number 8
+Correct Pred: 34636	|	Wrong Pred: 14844
+Total Precision: 0.7
+The number of correctly predicted circuits is: 7/10

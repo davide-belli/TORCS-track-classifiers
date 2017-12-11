@@ -3,3 +3,9 @@ dirt/
 old_data/
 road/
 output/
+experiment/*/*/*.png
+experiment/*/*/*.dat
+experiment/*/*/*.jpg
+experiment/*/*.png
+experiment/*/*.dat
+experiment/*/*.jpg

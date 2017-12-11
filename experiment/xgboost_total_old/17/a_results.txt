@@ -1,0 +1,159 @@
+Dirt: manual_2017-11-29_17-47-08,manual_2017-11-29_17-45-28,manual_2017-11-29_17-48-28,manual_2017-11-29_17-48-14
+Road: etrack_1,ruudskogen_1,cg_track_2_1,etrack3_1
+
+
+Test on race: spring_1
+Correct Pred: 47324	|	Wrong Pred: 15542
+Precision: 0.7527757452358986
+
+Test on race: manual_2017-11-29_17-47-15
+Correct Pred: 6938	|	Wrong Pred: 290
+Precision: 0.9598782512451577
+
+Test on race: manual_2017-11-29_17-47-57
+Correct Pred: 1165	|	Wrong Pred: 3588
+Precision: 0.24510835261939828
+
+Test on race: cg_track_2_1
+Correct Pred: 6740	|	Wrong Pred: 1181
+Precision: 0.8509026638050751
+
+Test on race: corkscrew_1
+Correct Pred: 10795	|	Wrong Pred: 1581
+Precision: 0.8722527472527473
+
+Test on race: olethros_road_1_1
+Correct Pred: 11349	|	Wrong Pred: 6076
+Precision: 0.6513055954088952
+
+Test on race: manual_2017-11-29_17-45-48
+Correct Pred: 4286	|	Wrong Pred: 9872
+Precision: 0.30272637378160755
+
+Test on race: manual_2017-11-29_17-48-28
+Correct Pred: 4155	|	Wrong Pred: 1291
+Precision: 0.7629452809401396
+
+Test on race: cg_speedway_number1_1
+Correct Pred: 3802	|	Wrong Pred: 2139
+Precision: 0.639959602760478
+
+Test on race: alpine2_1
+Correct Pred: 13807	|	Wrong Pred: 1143
+Precision: 0.9235451505016723
+
+Test on race: manual_2017-11-29_17-47-08
+Correct Pred: 3420	|	Wrong Pred: 937
+Precision: 0.7849437686481524
+
+Test on race: manual_2017-11-29_17-48-05
+Correct Pred: 6424	|	Wrong Pred: 309
+Precision: 0.9541066389425219
+
+Test on race: ruudskogen_1
+Correct Pred: 9347	|	Wrong Pred: 455
+Precision: 0.9535809018567639
+
+Test on race: cg_track3_1
+Correct Pred: 7195	|	Wrong Pred: 2409
+Precision: 0.7491670137442732
+
+Test on race: manual_2017-11-29_17-46-16
+Correct Pred: 4078	|	Wrong Pred: 5229
+Precision: 0.43816482217685615
+
+Test on race: manual_2017-11-29_17-47-28
+Correct Pred: 5685	|	Wrong Pred: 256
+Precision: 0.9569096111765696
+
+Test on race: manual_2017-11-29_17-45-19
+Correct Pred: 2805	|	Wrong Pred: 6799
+Precision: 0.2920658059142024
+
+Test on race: etrack4_1
+Correct Pred: 11534	|	Wrong Pred: 4307
+Precision: 0.728110599078341
+
+Test on race: eroad_1
+Correct Pred: 7799	|	Wrong Pred: 2102
+Precision: 0.7876982123017877
+
+Test on race: wheel1_1
+Correct Pred: 11728	|	Wrong Pred: 1341
+Precision: 0.8973907720560104
+
+Test on race: etrack3_1
+Correct Pred: 11930	|	Wrong Pred: 1040
+Precision: 0.9198149575944488
+
+Test on race: manual_2017-11-29_17-45-39
+Correct Pred: 1679	|	Wrong Pred: 3173
+Precision: 0.346042868920033
+
+Test on race: manual_2017-11-29_17-47-37
+Correct Pred: 5923	|	Wrong Pred: 216
+Precision: 0.9648151164684802
+
+Test on race: manual_2017-11-29_17-45-28
+Correct Pred: 6835	|	Wrong Pred: 4650
+Precision: 0.5951240748802786
+
+Test on race: etrack6_1
+Correct Pred: 11614	|	Wrong Pred: 1455
+Precision: 0.8886678399265437
+
+Test on race: manual_2017-11-29_17-44-39
+Correct Pred: 6194	|	Wrong Pred: 6578
+Precision: 0.4849671155652991
+
+Test on race: street1_1
+Correct Pred: 9238	|	Wrong Pred: 2742
+Precision: 0.771118530884808
+
+Test on race: aalborg_1
+Correct Pred: 8078	|	Wrong Pred: 3209
+Precision: 0.7156906175245858
+
+Test on race: brondehach_1
+Correct Pred: 10238	|	Wrong Pred: 1643
+Precision: 0.8617119771063042
+
+Test on race: manual_2017-11-29_17-48-14
+Correct Pred: 5273	|	Wrong Pred: 173
+Precision: 0.9682335659199413
+
+Test on race: manual_2017-11-29_17-47-47
+Correct Pred: 7205	|	Wrong Pred: 221
+Precision: 0.9702396983571236
+
+Test on race: forza_1
+Correct Pred: 8891	|	Wrong Pred: 4772
+Precision: 0.6507355631998829
+
+Test on race: wheel2_1
+Correct Pred: 11276	|	Wrong Pred: 5753
+Precision: 0.662164542838687
+
+Test on race: etrack2_1
+Correct Pred: 12250	|	Wrong Pred: 5670
+Precision: 0.68359375
+
+Test on race: alpine_1
+Correct Pred: 16962	|	Wrong Pred: 2740
+Precision: 0.8609278245863364
+
+Test on race: etrack_1
+Correct Pred: 9443	|	Wrong Pred: 854
+Precision: 0.9170632222977566
+
+Test on race: manual_2017-11-29_17-45-57
+Correct Pred: 2761	|	Wrong Pred: 4071
+Precision: 0.40412763466042156
+
+Test on race: manual_2017-11-29_17-43-56
+Correct Pred: 1372	|	Wrong Pred: 3678
+Precision: 0.2716831683168317
+FINAL SCORE!
+Correct Pred: 327538	|	Wrong Pred: 119485
+Total Precision: 0.7327095026430407
+ The number of correctly predicted circuits is: 30/38

@@ -1,0 +1,255 @@
+
+
+Model number 0
+Correct Pred: 323008	|	Wrong Pred: 124015
+Total Precision: 0.7225757958762749
+The number of correctly predicted circuits is: 33/38
+
+Model number 1
+Correct Pred: 346125	|	Wrong Pred: 100898
+Total Precision: 0.7742890186858394
+The number of correctly predicted circuits is: 30/38
+
+Model number 2
+Correct Pred: 351648	|	Wrong Pred: 95375
+Total Precision: 0.7866440876643931
+The number of correctly predicted circuits is: 32/38
+
+Model number 3
+Correct Pred: 318165	|	Wrong Pred: 128858
+Total Precision: 0.7117419014234166
+The number of correctly predicted circuits is: 34/38
+
+Model number 4
+Correct Pred: 346280	|	Wrong Pred: 100743
+Total Precision: 0.7746357569968436
+The number of correctly predicted circuits is: 32/38
+
+Model number 5
+Correct Pred: 316614	|	Wrong Pred: 130409
+Total Precision: 0.708272281292014
+The number of correctly predicted circuits is: 26/38
+
+Model number 6
+Correct Pred: 328569	|	Wrong Pred: 118454
+Total Precision: 0.7350158716665586
+The number of correctly predicted circuits is: 34/38
+
+Model number 7
+Correct Pred: 338194	|	Wrong Pred: 108829
+Total Precision: 0.7565472022692344
+The number of correctly predicted circuits is: 33/38
+
+Model number 8
+Correct Pred: 355668	|	Wrong Pred: 91355
+Total Precision: 0.7956369135368874
+The number of correctly predicted circuits is: 31/38
+
+Model number 9
+Correct Pred: 346570	|	Wrong Pred: 100453
+Total Precision: 0.7752844931916255
+The number of correctly predicted circuits is: 30/38
+
+Model number 10
+Correct Pred: 346109	|	Wrong Pred: 100914
+Total Precision: 0.7742532263440584
+The number of correctly predicted circuits is: 31/38
+
+Model number 11
+Correct Pred: 297491	|	Wrong Pred: 149532
+Total Precision: 0.6654937217995495
+The number of correctly predicted circuits is: 26/38
+
+Model number 12
+Correct Pred: 311546	|	Wrong Pred: 135477
+Total Precision: 0.6969350570328596
+The number of correctly predicted circuits is: 26/38
+
+Model number 13
+Correct Pred: 354021	|	Wrong Pred: 93002
+Total Precision: 0.7919525393547983
+The number of correctly predicted circuits is: 30/38
+
+Model number 14
+Correct Pred: 341071	|	Wrong Pred: 105952
+Total Precision: 0.7629831127257434
+The number of correctly predicted circuits is: 28/38
+
+Model number 15
+Correct Pred: 335477	|	Wrong Pred: 111546
+Total Precision: 0.7504692152305362
+The number of correctly predicted circuits is: 23/38
+
+Model number 16
+Correct Pred: 361903	|	Wrong Pred: 85120
+Total Precision: 0.8095847417246987
+The number of correctly predicted circuits is: 31/38
+
+Model number 17
+Correct Pred: 347472	|	Wrong Pred: 99551
+Total Precision: 0.7773022864595334
+The number of correctly predicted circuits is: 27/38
+
+Model number 18
+Correct Pred: 338360	|	Wrong Pred: 108663
+Total Precision: 0.7569185478152131
+The number of correctly predicted circuits is: 30/38
+
+Model number 19
+Correct Pred: 342203	|	Wrong Pred: 104820
+Total Precision: 0.7655154209067543
+The number of correctly predicted circuits is: 28/38
+
+Model number 20
+Correct Pred: 331001	|	Wrong Pred: 116022
+Total Precision: 0.7404563076172814
+The number of correctly predicted circuits is: 27/38
+
+Model number 21
+Correct Pred: 360948	|	Wrong Pred: 86075
+Total Precision: 0.807448386324641
+The number of correctly predicted circuits is: 30/38
+
+Model number 22
+Correct Pred: 347130	|	Wrong Pred: 99893
+Total Precision: 0.776537225153963
+The number of correctly predicted circuits is: 31/38
+
+Model number 23
+Correct Pred: 348856	|	Wrong Pred: 98167
+Total Precision: 0.7803983240235961
+The number of correctly predicted circuits is: 32/38
+
+Model number 24
+Correct Pred: 326283	|	Wrong Pred: 120740
+Total Precision: 0.729902040834588
+The number of correctly predicted circuits is: 33/38
+
+Model number 25
+Correct Pred: 340141	|	Wrong Pred: 106882
+Total Precision: 0.7609026828597186
+The number of correctly predicted circuits is: 31/38
+
+Model number 26
+Correct Pred: 357310	|	Wrong Pred: 89713
+Total Precision: 0.7993101026121698
+The number of correctly predicted circuits is: 31/38
+
+Model number 27
+Correct Pred: 356379	|	Wrong Pred: 90644
+Total Precision: 0.7972274357247837
+The number of correctly predicted circuits is: 31/38
+
+Model number 28
+Correct Pred: 337821	|	Wrong Pred: 109202
+Total Precision: 0.7557127933014632
+The number of correctly predicted circuits is: 32/38
+
+Model number 29
+Correct Pred: 323480	|	Wrong Pred: 123543
+Total Precision: 0.7236316699588164
+The number of correctly predicted circuits is: 26/38
+
+Model number 30
+Correct Pred: 355030	|	Wrong Pred: 91993
+Total Precision: 0.7942096939083672
+The number of correctly predicted circuits is: 27/38
+
+Model number 31
+Correct Pred: 340845	|	Wrong Pred: 106178
+Total Precision: 0.7624775458980858
+The number of correctly predicted circuits is: 32/38
+
+Model number 32
+Correct Pred: 353794	|	Wrong Pred: 93229
+Total Precision: 0.7914447355057793
+The number of correctly predicted circuits is: 32/38
+
+Model number 33
+Correct Pred: 347632	|	Wrong Pred: 99391
+Total Precision: 0.7776602098773441
+The number of correctly predicted circuits is: 31/38
+
+Model number 34
+Correct Pred: 362512	|	Wrong Pred: 84511
+Total Precision: 0.8109470877337408
+The number of correctly predicted circuits is: 30/38
+
+Model number 35
+Correct Pred: 350520	|	Wrong Pred: 96503
+Total Precision: 0.7841207275688276
+The number of correctly predicted circuits is: 31/38
+
+Model number 36
+Correct Pred: 312754	|	Wrong Pred: 134269
+Total Precision: 0.6996373788373306
+The number of correctly predicted circuits is: 25/38
+
+Model number 37
+Correct Pred: 349035	|	Wrong Pred: 97988
+Total Precision: 0.7807987508472718
+The number of correctly predicted circuits is: 27/38
+
+Model number 38
+Correct Pred: 309344	|	Wrong Pred: 137679
+Total Precision: 0.6920091359952396
+The number of correctly predicted circuits is: 31/38
+
+Model number 39
+Correct Pred: 309526	|	Wrong Pred: 137497
+Total Precision: 0.6924162738829993
+The number of correctly predicted circuits is: 24/38
+
+Model number 40
+Correct Pred: 318871	|	Wrong Pred: 128152
+Total Precision: 0.7133212385045065
+The number of correctly predicted circuits is: 26/38
+
+Model number 41
+Correct Pred: 330554	|	Wrong Pred: 116469
+Total Precision: 0.7394563590687727
+The number of correctly predicted circuits is: 34/38
+
+Model number 42
+Correct Pred: 328691	|	Wrong Pred: 118332
+Total Precision: 0.7352887882726392
+The number of correctly predicted circuits is: 26/38
+
+Model number 43
+Correct Pred: 355272	|	Wrong Pred: 91751
+Total Precision: 0.7947510530778058
+The number of correctly predicted circuits is: 28/38
+
+Model number 44
+Correct Pred: 349660	|	Wrong Pred: 97363
+Total Precision: 0.7821968891980949
+The number of correctly predicted circuits is: 31/38
+
+Model number 45
+Correct Pred: 325768	|	Wrong Pred: 121255
+Total Precision: 0.7287499748335097
+The number of correctly predicted circuits is: 23/38
+
+Model number 46
+Correct Pred: 314369	|	Wrong Pred: 132654
+Total Precision: 0.7032501683358574
+The number of correctly predicted circuits is: 33/38
+
+Model number 47
+Correct Pred: 352234	|	Wrong Pred: 94789
+Total Precision: 0.7879549821821249
+The number of correctly predicted circuits is: 30/38
+
+Model number 48
+Correct Pred: 345980	|	Wrong Pred: 101043
+Total Precision: 0.7739646505884484
+The number of correctly predicted circuits is: 28/38
+
+Model number 49
+Correct Pred: 361785	|	Wrong Pred: 85238
+Total Precision: 0.8093207732040634
+The number of correctly predicted circuits is: 30/38
+
+
+ FINAL RESULTS
+ Most correct predictions: 34
